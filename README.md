@@ -71,7 +71,7 @@ Two **swimlane diagrams** represent the workflow before and after re-engineering
 
 ---
 
-## Goals and Outcomes
+## Goals and Outcomes from the project
 
 By re-engineering the loan origination process, BPR Bank aims to:
 
@@ -81,7 +81,7 @@ By re-engineering the loan origination process, BPR Bank aims to:
 
 ---
 
-## Conclusion
+## Conclusion or sum_up
 
 This re-engineering project aligns with BPR Bank's strategic goals of enhancing customer satisfaction, reducing processing times, and increasing efficiency within the MIS framework. By addressing the pain points in the current workflow, we aim to foster better customer retention, higher satisfaction scores, and a more effective loan origination process.
 
